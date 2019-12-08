@@ -1,0 +1,51 @@
+item,aisle,price,quantity,store,category
+Eggs,Cooler Door 5,2,3,"Acme 1709 OH-59, Kent, OH 44240",Food
+Milk,Cooler Door 6,3.3,2,"Acme 1709 OH-59, Kent, OH 44241",Food
+Bread,Aisle 10,3,1,"Acme 1709 OH-59, Kent, OH 44242",Food
+Hot Dogs,Cooler Door 7,4,0,"Acme 1709 OH-59, Kent, OH 44243",Food
+Hamburgers,Cooler Door 7,12,1,"Acme 1709 OH-59, Kent, OH 44244",Food
+Steak,Cooler Door 7,14.99,0,"Acme 1709 OH-59, Kent, OH 44245",Food
+Chicken,Cooler door 8,7,11,"Acme 1709 OH-59, Kent, OH 44246",Food
+Beef,Cooler Door 8,8.99,7,"Acme 1709 OH-59, Kent, OH 44247",Food
+Carrots,Aisle 5,2.99,8,"Acme 1709 OH-59, Kent, OH 44248",Food
+Cucumbers,Aisle 5,2.3,0,"Acme 1709 OH-59, Kent, OH 44249",Food
+Apples,Aisle 5,2.15,5,"Acme 1709 OH-59, Kent, OH 44250",Food
+Bananas ,Aisle 5,0.59,3,"Acme 1709 OH-59, Kent, OH 44251",Food
+Cereal,Aisle 10,2.25,14,"Acme 1709 OH-59, Kent, OH 44252",Food
+Lettuce,Aisle 6,2,4,"Acme 1709 OH-59, Kent, OH 44253",Food
+Pizza,Cooler Door 12,6,13,"Acme 1709 OH-59, Kent, OH 44254",Food
+Pop,Cooler Door 19,3.99,11,"Acme 1709 OH-59, Kent, OH 44255",Food
+Water,Cooler Door 19,3.99,2,"Acme 1709 OH-59, Kent, OH 44256",Food
+Pasta,Aisle 7,2,13,"Acme 1709 OH-59, Kent, OH 44257",Food
+Spices,Aisle 8,3.75,14,"Acme 1709 OH-59, Kent, OH 44258",Food
+Granola,Aisle 10,3,8,"Acme 1709 OH-59, Kent, OH 44259",Food
+Yogurt,Cooler Door 6,1.33,8,"Acme 1709 OH-59, Kent, OH 44260",Food
+Cheese,Cooler Door 5,2.5,6,"Acme 1709 OH-59, Kent, OH 44261",Food
+Sour Cream,Cooler Door 5,3,5,"Acme 1709 OH-59, Kent, OH 44262",Food
+Salad Dressing,Aisle 3,1.99,5,"Acme 1709 OH-59, Kent, OH 44263",Food
+Soup,Aisle 10,1.5,12,"Acme 1709 OH-59, Kent, OH 44264",Food
+Lemonade,Aisle 2,2.99,7,"Acme 1709 OH-59, Kent, OH 44265",Food
+Chips,Aisle 1,3.5,6,"Acme 1709 OH-59, Kent, OH 44266",Food
+Crackers,Aisle 1,4,9,"Acme 1709 OH-59, Kent, OH 44267",Food
+Ice Cream,Cooler Door 19,5,5,"Acme 1709 OH-59, Kent, OH 44268",Food
+Celery,Aisle 6,3,15,"Acme 1709 OH-59, Kent, OH 44269",Food
+Basketball,Aisle 5,8,10,"Walmart 2600 OH-59, Ravenna, OH 44266",Sporting Goods
+Baseball Bat,Aisle 5,18,14,"Walmart 2600 OH-59, Ravenna, OH 44267",Sporting Goods
+Weights,Aisle 20,20,3,"Walmart 2600 OH-59, Ravenna, OH 44268",Sporting Goods
+Yoga Mat,Aisle 19,15,6,"Walmart 2600 OH-59, Ravenna, OH 44269",Sporting Goods
+Soccer Ball,Aisle 5,10,10,"Walmart 2600 OH-59, Ravenna, OH 44270",Sporting Goods
+Football,Aisle 5,9.99,9,"Walmart 2600 OH-59, Ravenna, OH 44271",Sporting Goods
+Lamp,Aisle 12,18,8,"Walmart 2600 OH-59, Ravenna, OH 44272",Home Goods
+Desk,Aisle 12,55,5,"Walmart 2600 OH-59, Ravenna, OH 44273",Home Goods
+Table,Aisle 12,89.99,11,"Walmart 2600 OH-59, Ravenna, OH 44274",Home Goods
+Chair,Aisle 13,65,0,"Walmart 2600 OH-59, Ravenna, OH 44275",Home Goods
+Sheets,Aisle 13,15,8,"Walmart 2600 OH-59, Ravenna, OH 44276",Home Goods
+Pans,Aisle 5,51.95,15,"Walmart 2600 OH-59, Ravenna, OH 44277",Home Goods
+Silverware,Aisle 5,14,11,"Walmart 2600 OH-59, Ravenna, OH 44278",Home Goods
+Headphones,Aisle 10,79.97,5,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44221",Technology
+TV,Aisle 10,399,13,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44222",Technology
+Phone,Aisle 28,899,10,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44223",Technology
+Laptop,Aisle 28,599,2,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44224",Technology
+Charger,Aisle 28,25.5,11,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44225",Technology
+Smart Watch,Aisle 29,299,9,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44226",Technology
+Mouse,Aisle 28,10,9,"Best Buy  445 Howe Ave, Cuyahoga Falls, OH 44227",Technology
